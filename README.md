@@ -25,3 +25,6 @@ Por último, se exportan los datos PostgreSQL para su manipulación y conexión 
 - Uso de funciones, métodos, código y análisis con respecto a la limpieza de datos, permitiéndome mejorar y optimizar los resultados. 
 
 - Cree una conexión entre Python, PostgreSQL y Power BI, automatizando la extracción, limpieza y transformación de los datos para su posterior análisis.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/Documento:_Extracción_y_limpieza_de_base_de_datos-grey)](https://github.com/csanchezacev/Extracion-y-limpieza-de-base-de-datos-Almacen-Electrocaribe/blob/main/Data%20Cleaning%20Almacen%20Electrocaribe.ipynb)
